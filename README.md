@@ -1,4 +1,4 @@
-# am-task
+# Vue Donate Page
 
 ## Project setup
 ```
