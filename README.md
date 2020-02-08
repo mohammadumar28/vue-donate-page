@@ -1,4 +1,4 @@
-# Vue-Donate-Page
+# Vue Donate Page
 
 ## Project setup
 ```
